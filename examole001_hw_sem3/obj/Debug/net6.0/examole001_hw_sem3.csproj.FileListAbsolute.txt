@@ -1,0 +1,15 @@
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\bin\Debug\net6.0\examole001_hw_sem3.exe
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\bin\Debug\net6.0\examole001_hw_sem3.deps.json
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\bin\Debug\net6.0\examole001_hw_sem3.runtimeconfig.json
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\bin\Debug\net6.0\examole001_hw_sem3.dll
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\bin\Debug\net6.0\examole001_hw_sem3.pdb
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.csproj.AssemblyReference.cache
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.GeneratedMSBuildEditorConfig.editorconfig
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.AssemblyInfoInputs.cache
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.AssemblyInfo.cs
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.csproj.CoreCompileInputs.cache
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.dll
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\refint\examole001_hw_sem3.dll
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.pdb
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\examole001_hw_sem3.genruntimeconfig.cache
+E:\_GB\Home_work\hw\С#\C#homework3\examole001_hw_sem3\obj\Debug\net6.0\ref\examole001_hw_sem3.dll
